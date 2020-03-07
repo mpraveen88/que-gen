@@ -4,6 +4,9 @@ Easy SQL Query Generator from C# Lambda Expressions.
 
 # Installation
 Download the `QueryGen.Core.dll` from `dist` folder and refer it in your .NET project.
+## NuGET
+> `Install-Package QueryGen.Core -Version 1.0.0`
+
 
 # How To Use
 - Define a POCO class. Let's say Person.cs.
