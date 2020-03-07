@@ -100,7 +100,7 @@ namespace QueryGen.Core
             if (result.EndsWith("AND") || result.EndsWith("OR") || result.EndsWith("NOT"))
                 throw new Exception("Query should not end with AND/OR/NOT");
 
-            return $" {result} ";
+            return $" {(string.IsNullOrEmpty(result) ? " 1=1 " : result )} ";
         }
 
 
