@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Praveen M</authors>
+    <owners>Praveen M</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/mpraveen88/que-gen/</projectUrl>
+    <repository type="git" url="git@github.com:mpraveen88/que-gen.git" branch="master" commit="73edf407d406006324b05cd43c418aa97b177290" />    
+    <description>Easy SQL Query Generator from C# Lambda Expressions.</description>
+    <releaseNotes>This is an initial release.</releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <tags>C# SQL Query QueryGenerator LambdaSQL</tags>
+  </metadata>
+</package>

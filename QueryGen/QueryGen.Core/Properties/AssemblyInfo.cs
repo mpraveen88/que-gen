@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("QueryGen.Core")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Query Generator")]
+[assembly: AssemblyDescription("Generate SQL using C# Lambda expressions")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("QueryGen.Core")]
+[assembly: AssemblyCompany("Praveen M")]
+[assembly: AssemblyProduct("Query Generator")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
